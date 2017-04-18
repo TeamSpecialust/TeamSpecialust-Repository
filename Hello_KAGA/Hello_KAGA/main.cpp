@@ -26,9 +26,15 @@ int main()
 {
 	cout << "err KAGA" << endl;
 
-	cout << "100*200" << Multi(100, 200);
+
+	
 
 	cout <<"200 + 100 = "<< Add(200 , 100) << endl;
+
+	cout << "100-200 = " << Sub(100, 200) << endl;
+
+
+	cout << "100*200" << Multi(100, 200);
 
 	for (;;);
 
